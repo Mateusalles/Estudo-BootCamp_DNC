@@ -44,7 +44,7 @@ Sinta-se à vontade para contribuir com este projeto! Se você tiver sugestões 
 ## Autor
 
 [Mateus Sales](https://github.com/Mateusalles)
-- LinkedIn: [Seu LinkedIn](www.linkedin.com/in/mateussales)
+- LinkedIn: [Mateus Sales](www.linkedin.com/in/mateussales)
 
 ## Versão Final
 
