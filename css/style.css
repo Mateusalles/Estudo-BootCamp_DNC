@@ -180,6 +180,7 @@ footer ul {
 
 
 }
+
 footer nav {
     display: flex;
     flex-direction: column;
@@ -254,4 +255,54 @@ footer .linha2 a:hover {
 
 footer .linha2 a:first-child {
     border-right: 3px solid white;
+}
+
+@media only screen and (max-width: 600px) {
+
+    /* MENU */
+    #principal {
+        flex-direction: column;
+        height: auto;
+    }
+
+    #menu {
+        flex-direction: column;
+        width: 100%;
+        margin: 0px;
+
+    }
+
+    #menu a {
+        display: flex;
+        align-items: center;
+        height: 40px;
+
+    }
+
+    #principal button {
+        width: 100%;
+        margin: 0px;
+    }
+
+    /* SECTION */
+
+    section h1 {
+        font-size: 40px;
+    }
+
+    section h2 {
+        font-size: 38px;
+        padding: 0 15px 0 15px;
+    }
+    form {
+        width: 95%;
+        font-size: 20px;
+    }
+
+    .checkbox-itens label {
+        font-size: 17px;
+
+    }
+
+
 }
