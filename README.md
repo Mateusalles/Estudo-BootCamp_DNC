@@ -7,9 +7,8 @@ Bem-vindo ao repositório do projeto **Bootcamp DNC**! Este projeto representa a
 1. [Visão Geral](#visão-geral)
 2. [Estrutura do Projeto](#estrutura-do-projeto)
 3. [Como Contribuir](#como-contribuir)
-4. [Licença](#licença)
-5. [Autor](#autor)
-6. [Versão Final](#versão-final)
+4. [Autor](#autor)
+5. [Versão Final](#versão-final)
 
 ## Visão Geral
 
